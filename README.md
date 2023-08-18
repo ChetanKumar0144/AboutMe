@@ -1,5 +1,6 @@
--<h1>I'm 𝕮𝖍𝖎𝖓𝖚 𝕾𝖔𝖍𝖑𝖔𝖙 ! </h1>
-I'm a Web Developer. Some technologies I enjoy working with include HTML5, CSS3, SQL etc.Soon I launched my portfolio-- <a href="https://YoungSTAAR.github.io/portfolio" >𝕮𝖍𝖎𝖓𝖚 𝕾𝖔𝖍𝖑𝖔𝖙's Portfolio </a> as a project.
+-<h1>I'm Chetan Kumar ! </h1>
+I'm a Full Stack Developer. Some 
+technologies I enjoy working with include HTML5, CSS3, SQL etc.Soon I launched my portfolio-- <a href="https://YoungSTAAR.github.io/portfolio" >Chetan Kumar's Portfolio </a> as a project.
 
 - 🌱 I’m currently learning more about <b> software developing</b>.
 - 💞️ I’m looking to collaborate on <b>YouTube</b>.
