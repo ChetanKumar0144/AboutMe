@@ -9,4 +9,4 @@ technologies I enjoy working with include HTML5, CSS3, SQL etc.Soon I launched m
 <h2> Find me around the web </h2>
 
 -Sharing updates on LinkedIn <a href="https://www.linkedin.com/in/chetan-kumar-9752511b3/">@LinkedIn</a><br>
--Follow me on Instagram <a href="https://www.instagram.com/its_sohlot_chinu/">@Instagram</a>
+-Follow me on Instagram <a href="[https://www.instagram.com/its_sohlot_chinu/](https://www.instagram.com/)https://www.instagram.com/">@Instagram</a>
