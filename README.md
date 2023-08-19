@@ -1,6 +1,6 @@
 -<h1>I'm Chetan Kumar ! </h1>
 I'm a Full Stack Developer. Some 
-technologies I enjoy working with include HTML5, CSS3, SQL etc.Soon I launched my portfolio-- <a href="https://chetankumar.tk/" >Chetan Kumar's Portfolio </a> as a project.
+technologies I enjoy working with include HTML5, CSS3, JS, PHP, SQL, Laravel etc.Here is my portfolio-- <a href="https://chetankumar.tk/" >Chetan Kumar's Portfolio </a>. To know about me click on link.
 
 - 🌱 I’m currently learning more about <b> software developing</b>.
 - 💞️ I’m looking to collaborate on <b>YouTube</b>.
